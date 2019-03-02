@@ -1,0 +1,95 @@
+body{
+    margin-top:15%; 
+    text-align: center;
+}
+
+#zamangor{
+
+    background-color: #e67e22;
+
+    border: none;
+
+    color: white;
+
+    padding: 15px 32px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    font-size: 16px;
+
+    margin: 4px 2px;
+
+    margin-top: 3%;
+    
+    cursor: pointer;
+
+    width: 30%;
+
+    height: 30%;
+}
+#saymabasla{
+       
+        background-color: #0BCF6D;
+    
+        border: none;
+    
+        color: white;
+    
+        padding: 15px 32px;
+    
+        text-align: center;
+    
+        text-decoration: none;
+    
+        display: inline-block;
+    
+        font-size: 16px;
+    
+        margin: 4px 2px;
+
+        width: 30%;
+
+        height: 30%;
+    
+        cursor: pointer;
+}
+#saymabitir{
+
+    background-color: #F50A2A;
+
+    border: none;
+
+    color: white;
+
+    padding: 15px 32px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    font-size: 16px;
+
+    margin: 4px 2px;
+
+    width: 30%;
+
+    height: 30%;
+
+    margin-top: 3%;
+
+    cursor: pointer;
+}
+
+#toplamsure{
+
+    margin-top: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: gray;
+}
